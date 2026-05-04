@@ -35,4 +35,4 @@ An interactive web app where users can draw digits (0–9) and get real-time pre
 This frontend connects to:
 
 ```txt
-[https://your-backend.onrender.com/predict](https://digit-classifier-ai.onrender.com)
+https://digit-classifier-ai.onrender.com
